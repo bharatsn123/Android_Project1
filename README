@@ -1,8 +1,10 @@
-This is the starter code for the Anagrams workshop. 
-This workshop is part of the Applied CS with Android course:
+This project introduces the data structure concepts – ArrayLists, HashSets
+and HashMaps, to build a word-game.
 
-http://g.co/cswithandroid
+An anagram is a word formed by rearranging the letters of another
+word. For example, cinema is an anagram of iceman.
 
-Check the website for detailed instructions on how to implement this activity.
-
-Version 1.0
+The mechanics of the game are as follows:
+• The game provides the user with a word from the dictionary.
+• The user tries to create as many words as possible that contain all the
+letters of the given word plus one additional letter.
