@@ -6,9 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-/**
- * Created by Vinut S Naganath on 26.10.17.
- */
+
 
 public class HomeActivity extends AppCompatActivity{
 
