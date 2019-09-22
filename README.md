@@ -9,7 +9,6 @@ The mechanics of the game are as follows: <br>
 • The game provides the user with a word from the dictionary. <br>
 • The user tries to create as many words as possible that contain all the
 letters of the given word plus one additional letter. <br>
-<img src="https://drexel.edu/~/media/Images/now/v2/story-images/2019/February/anagramgif.ashx?la=en1">
 <br><br>
 ## Usage 
 
