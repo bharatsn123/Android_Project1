@@ -15,6 +15,7 @@ letters of the given word plus one additional letter. <br>
 * <B>On the home screen, please choose "Third Milestone".</B><br>
 This app was created to teach my students in one of the Android workshops and it had three different milestones, so this was used as a preview to see how the app worked at different milestones. The final app can be experienced when clicked on third milestone button.
 <br><br>
+
 ## Download the APK file here
 
 Right click and open in new tab <br><br>
