@@ -12,7 +12,7 @@ letters of the given word plus one additional letter. <br>
 <br><br>
 ## Download the APK file here
 
-[![alt text](https://www.illinoislottery.com/content/il/en/useful-information/illinois-lottery-app/android/_jcr_content/main/responsivegrid_1641479803/container/responsivegrid_521504216/responsivegrid_copy/image_1892375594.img.jpeg/1566835944486.jpeg)](https://drive.google.com/open?id=1baPIXYB7Zr6Mngi5v3I1D3Rv-dcGK-EL)
+<a href="https://drive.google.com/open?id=1baPIXYB7Zr6Mngi5v3I1D3Rv-dcGK-EL" target="_blank">![alt text](https://www.illinoislottery.com/content/il/en/useful-information/illinois-lottery-app/android/_jcr_content/main/responsivegrid_1641479803/container/responsivegrid_521504216/responsivegrid_copy/image_1892375594.img.jpeg/1566835944486.jpeg)</a>
 <br><br>
 
 ## Usage 
