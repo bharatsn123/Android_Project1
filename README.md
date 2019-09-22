@@ -24,6 +24,11 @@ This app was created to teach my students in one of the Android workshops and it
 
 * But there's a twist!! You need to add one additional letter(any alphabet) to the given word and make an anagram with it. "spare" can be rearranged with the additional letter 'j' to create the word "jasper" (and that's what makes this pretty tough).
 
+* Here's what you cannot do. Suppose the word given by the App is "reward", you cannot add an 's' to make it "rewards". Its technically the same word, so its not accepted as a valid anagram with an extra letter in the game. 
+
+* Once you have entered your first guess, you can see an action button on the right bottom of the screen, on which once you click, you will get all the possible anagrams with one letter added to the original word.
+
+
 ## Download the APK file here
 
 Right click and open in new tab <br><br>
