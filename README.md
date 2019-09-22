@@ -26,3 +26,4 @@ Right click and open in new tab <br><br>
 <br><br>
 
 ### Hope this helps - Thank you for the visit 
+For any queries, please contact at bharatsn123@gmail.com
